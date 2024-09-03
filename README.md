@@ -8,11 +8,12 @@ open your teminal
 
 ```bash
 cd your_work_dir
-git clone https://github.com/Show3567/AngularTrainingBackEnd.git
+git clone https://github.com/Miranda0101/AngularTrainingBackEnd.git
 ```
 
 ### Start this back end in your local:
 
 ```bash
-nodemon index.js
+npm install
+npm start
 ```
